@@ -11,7 +11,7 @@ const arr = [
     },
     {
         name: 'Andrey Igorov',
-        description: '"The best agency we’ve worked with so far. They understand our product and are able to add new features with a great focus."',
+        description: '"  worked with so far The best agency we’ve. They understand our product and are able to add new features with a great focus."',
         img: '/profile2.jpg',
         id: 1,
         profile: 'manager'
@@ -19,7 +19,7 @@ const arr = [
     },
     {
         name: 'Jeck anderson',
-        description: '"The best agency we’ve worked with so far. They understand our product and are able to add new features with a great focus."',
+        description: '" our product and are able to add new The best agency we’ve worked with so far. They understand  features with a great focus."',
         img: '/profile3.avif',
         id: 2,
         profile: 'team leader'
@@ -27,7 +27,7 @@ const arr = [
     },
     {
         name: 'hidden user',
-        description: '"The best agency we’ve worked with so far. They understand our product and are able to add new features with a great focus."',
+        description: '"  They understand our product and are able to add new features with a The best agency we’ve worked with so far. great focus."',
         img: '/unkown.jpg',
         id: 3,
         profile: 'director company'
