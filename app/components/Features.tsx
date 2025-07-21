@@ -107,7 +107,7 @@ export default function Features() {
 
         </div>
         <div className="features-card">
-          <Image src={'/iconf.png'} alt='DOC' width={34} height={34} className='Features-icon' />
+          <Image src='/icons.png' alt='DOC' width={34} height={34} className='Features-icon' />
 
           <h1>
             Lorem, ipsum dolor.
