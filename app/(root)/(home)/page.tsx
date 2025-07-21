@@ -4,6 +4,7 @@ import Banner from '@/app/components/Banner'
 import AboutUs from '@/app/components/AboutUs'
 import Projects from '@/app/components/Projects'
 import Features from '@/app/components/Features'
+import Clinets from '@/app/components/Clinets'
 
 export default function page() {
   return (
@@ -12,6 +13,7 @@ export default function page() {
      <AboutUs/>
      <Projects/>
      <Features/>
+     <Clinets/>
     </div>
   )
 }
